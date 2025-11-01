@@ -1,9 +1,9 @@
 
 import React from "react";
 import Sidebar from "./Sidebar";
-import Navbar from "./Navbar";
+import Navbar from "./navbar";
 import Musixplayer from "./musixplayer";
-// import Player from "./Player";
+
 
 const Layout = ({ children }) => {
   return (
